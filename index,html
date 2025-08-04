@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+  <html lang="en"></html>
+    <head>
+        <meta name="description" content="Assignment Page">
+        <meta name="keywords" content="assignment, tasks, projects">
+        <meta name="author" content="Faith Mogire">
+    </head>
+    <body>
+        <header>
+            <h1>Week 1 Assignment</h1>
+            <nav>
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">About</a></li>
+                    <li><a href="#">Languages</a></li>
+                    <li><a href="#">Contact</a></li>
+                </ul>
+            </nav>
+        </header>
+        <main>
+            <section id="assignment-datails">
+                <h2>Assignment Details</h2>
+                <p></p>
+            </section>
+            <section id="submission">
+                <h2>Guidelines</h2>
+                <p></p>
+
+            </section>
+        </main>
+        <footer>
+            <p>&copy; 2025 Faith Mogire. All rights reserved.</p>
+        </footer>
+    </body>
+ </html>
